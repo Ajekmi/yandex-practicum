@@ -15,3 +15,9 @@ Hello! It contains educational projects from my course of study at the Yandex Pr
 </h4>
 
 <img src="https://komarev.com/ghpvc/?username=Ajekmi&style=flat-square&color=blue" alt=""/>
+
+## Описание проектов
+
+| Проект | Описание  | Используемые библиотеки |
+| :-------------------- | :---------------------: |:---------------------------:|
+| [1. Сравнение предпочтений в жанрах](https://github.com/Ajekmi/yandex-practicum/tree/main/01_Yandex_Music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница) | *pandas* |
